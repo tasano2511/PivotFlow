@@ -10,13 +10,13 @@ export default function Hero() {
       <div className="mx-auto grid max-w-6xl gap-12 px-6 py-20 sm:px-8 sm:py-28 lg:grid-cols-[1.1fr_1fr] lg:items-center lg:py-32">
         <Reveal className="max-w-xl">
           <p className="font-mono text-xs uppercase tracking-[0.3em] text-brass">
-            PivotFlow LLC
+            PivotFlow Labs LLC
           </p>
           <h1 className="mt-4 font-display text-4xl leading-[1.1] tracking-tight text-ivory sm:text-5xl lg:text-6xl">
             We build apps. Then we help you build yours.
           </h1>
           <p className="mt-6 text-lg leading-relaxed text-ivory/70">
-            PivotFlow ships its own portfolio of apps first, then takes on a
+            PivotFlow Labs ships its own portfolio of apps first, then takes on a
             select number of custom builds for clients who want that same
             craft applied to their idea.
           </p>

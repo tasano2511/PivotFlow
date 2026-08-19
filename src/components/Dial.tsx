@@ -3,7 +3,7 @@
 import { useCallback, useRef, useState } from "react";
 
 /**
- * The instrument dial: PivotFlow's signature mark. A needle pivots across a
+ * The instrument dial: PivotFlow Labs' signature mark. A needle pivots across a
  * semicircular scale between two poles — "Our Apps" and "Your Idea" — and
  * rests toward Our Apps, since the portfolio leads.
  *

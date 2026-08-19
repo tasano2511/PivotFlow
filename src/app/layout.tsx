@@ -20,13 +20,13 @@ const ibmPlexMono = IBM_Plex_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "PivotFlow",
+  title: "PivotFlow Labs",
   description:
-    "PivotFlow — a studio building a portfolio of apps, plus custom builds on request.",
-  applicationName: "PivotFlow",
+    "PivotFlow Labs — a studio building a portfolio of apps, plus custom builds on request.",
+  applicationName: "PivotFlow Labs",
   appleWebApp: {
     capable: true,
-    title: "PivotFlow",
+    title: "PivotFlow Labs",
     statusBarStyle: "black-translucent",
   },
 };

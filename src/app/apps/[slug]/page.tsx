@@ -20,7 +20,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const app = apps.find((a) => a.slug === slug);
   if (!app) return {};
   return {
-    title: `${app.name} — PivotFlow`,
+    title: `${app.name} — PivotFlow Labs`,
     description: app.description,
   };
 }

@@ -23,7 +23,7 @@ export default function Header() {
         <a href="/" className={`flex items-center gap-2 rounded-sm sm:gap-3 ${FOCUS_RING}`}>
           <Dial variant="mark" className="h-7 w-7 shrink-0 text-ivory sm:h-8 sm:w-8" />
           <span className="font-display text-base tracking-tight text-ivory sm:text-lg">
-            PivotFlow
+            PivotFlow Labs
           </span>
         </a>
         <nav aria-label="Primary">

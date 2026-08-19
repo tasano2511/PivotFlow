@@ -18,7 +18,7 @@ export default function AppsGrid() {
             Apps we’ve shipped
           </h2>
           <p className="mt-4 text-ivory/70">
-            Each one built, shipped, and maintained by PivotFlow — proof
+            Each one built, shipped, and maintained by PivotFlow Labs — proof
             before pitch.
           </p>
         </Reveal>
